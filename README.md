@@ -9,7 +9,7 @@ This based on the consensus between devs.
     + *[Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau] (https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)*
 
 - Please setup CI/CD before starting a new project.
-- [SOLID principles] (https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4)
+- *[SOLID principles] (https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4)*
 
 ## Common:
 
