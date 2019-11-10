@@ -23,3 +23,6 @@ This based on the consensus between devs.
 - Remove duplication code.
 - Remove rem code.
 - Meaning function or method name.
+
+## Golang:
+- https://github.com/uber-go/guide/blob/master/style.md
