@@ -26,9 +26,9 @@ This based on the consensus between devs.
 
 ## Jira:
 
-- Put your due date for the task you do.
+- Put your due date for the task you do. Thanks to @Binh to raise this issue.
 - Move the task from TO DO to IN PROGRESS.
-- Create a pull request with the name is your task number. Ex: TW-5
+- Create a pull request with the name is your task number (Ex: TW-5). Show your evidence like screenshots, gif, ... Thanks to @Ivan to make it more clearly.
 - Follow the task based on our roadmap. If you see it's not important for now, please move it to our BACK LOG.
 
 ## Golang:
