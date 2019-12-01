@@ -33,3 +33,27 @@ This based on the consensus between devs.
 
 ## Golang:
 - https://github.com/uber-go/guide/blob/master/style.md
+
+- Best practise:
+
+# 1
+```golang
+var (
+    mongoInstance *mongo.Database
+)
+
+type MongoDB struct {
+}
+
+func GetInstance() *mongo.Database {
+    return mongoInstance
+}
+```
+
+```golang
+type MongoDB struct {
+    mongoInstance *mongo.Database
+}
+```
+
+
