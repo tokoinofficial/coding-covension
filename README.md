@@ -36,7 +36,7 @@ This based on the consensus between devs.
 
 - Best practise:
 
-#### 1
+#### No.1
 BAD
 ```golang
 var (
