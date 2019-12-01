@@ -47,7 +47,7 @@ type MongoDB struct {
 }
 
 func GetInstance() *mongo.Database {
-    return mongoInstance
+    return &mongoInstance
 }
 ```
 GOOD
