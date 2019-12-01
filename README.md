@@ -36,7 +36,8 @@ This based on the consensus between devs.
 
 - Best practise:
 
-# 1
+#### 1
+BAD
 ```golang
 var (
     mongoInstance *mongo.Database
@@ -49,7 +50,7 @@ func GetInstance() *mongo.Database {
     return mongoInstance
 }
 ```
-
+GOOD
 ```golang
 type MongoDB struct {
     mongoInstance *mongo.Database
